@@ -13,6 +13,5 @@ class CC(torch.nn.Module):
         MM = torch.sqrt(torch.sum((output.permute(2,3,0,1) - out_ave) ** 2, dim=[0, 1]) * torch.sum((HS.permute(2,3,0,1) - HS_ave) ** 2, dim=[0, 1]))
         loss = torch.div(LL, MM)
         loss = torch.mean(loss, dim=[0,1])
-        loss = loss.clone().detach().requires_grad_(True)
 
         return loss
