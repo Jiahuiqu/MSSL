@@ -1,5 +1,5 @@
 # MSSL
-If you use this code, please cite the following paper:
+If you find this code helpful, please kindly cite:
 
 @article{qu2021,
 
