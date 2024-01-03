@@ -1,12 +1,11 @@
 # MSSL
-If you find this code helpful, please kindly cite:
+@ARTICLE{9386241,  
+  &emsp;author={Qu, Jiahui and Shi, Yanzi and Xie, Weiying and Li, Yunsong and Wu, Xianyun and Du, Qian},  
+  &emsp;journal={IEEE Transactions on Geoscience and Remote Sensing},  
+  &emsp;title={MSSL: Hyperspectral and Panchromatic Images Fusion via Multiresolution Spatial–Spectral Feature Learning Networks},  
+  &emsp;year={2022},  
+  &emsp;volume={60},  
+  &emsp;number={},  
+  &emsp;pages={1-13},  
+  &emsp;doi={10.1109/TGRS.2021.3066374}}
 
-@article{qu2021,
-
-title={MSSL: Hyperspectral and panchromatic images fusion via multiresolution spatial-spectral feature learning networks},
-
-author={Jiahui Qu, Yanzi Shi, Weiying Xie, Yunsong Li, Xianyun Wu, and Qian Du},
-
-journal={IEEE Transactions on Geoscience and Remote Sensing},
-
-year={2021}}
