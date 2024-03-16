@@ -1,4 +1,4 @@
-# MSSL
+# MSSL for Hyperspectral and PAN Images Fusion
 The implementation of the paper "MSSL: Hyperspectral and Panchromatic Images Fusion via Multiresolution Spatial–Spectral Feature Learning Networks" (IEEE Transactions on Geoscience and Remote Sensing 2022)
 
 ## Cite
